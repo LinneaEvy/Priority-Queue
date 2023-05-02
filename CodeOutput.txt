@@ -1,0 +1,22 @@
+10 added:
+10
+14 added:
+14     10
+15 added:
+15     10     14
+30 added:
+30     15     14     10
+0 added:
+30     15     14     10     0
+30 removed:
+15     10     14     0
+15 removed:
+14     10     0
+14 removed:
+10     0
+10 removed:
+0
+
+\x64\Debug\PriorityQueue.exe (process 30104) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
